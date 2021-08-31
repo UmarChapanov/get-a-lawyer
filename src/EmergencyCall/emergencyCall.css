@@ -1,0 +1,13 @@
+.emergencyWindow {
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.bellemergency {
+  margin-top: 30px;
+  background-color: gold;
+  border-radius: 10px;
+}
